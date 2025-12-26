@@ -1,0 +1,1 @@
+GPUS=8 PER_DEVICE_BATCH_SIZE=1 sh ViTP_configs/InternVL_1b_remote_sensing_ViTP.sh

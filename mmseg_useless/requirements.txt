@@ -1,0 +1,13 @@
+timm==0.6.11
+mmdet==2.25.1
+scipy==1.13.1
+einops==0.8.1
+safetensors==0.5.3
+mmengine==0.10.3
+yapf==0.40.1
+opencv-python==4.11.0.86
+numpy==1.26.3
+deepspeed==0.8.0
+pydantic==1.10.2
+prettytable==3.16.0
+tensorboard==2.19.0

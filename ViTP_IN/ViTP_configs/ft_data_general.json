@@ -1,0 +1,58 @@
+{
+  "sharegpt4v_instruct_gpt4-vision_cap100k": {
+    "root": "data/images/general/",
+    "annotation": "data/general_ann/sharegpt4v_instruct_gpt4-vision_cap100k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 102025
+  },
+  "sharegpt4v_mix665k_cap23k_coco-ap9k_lcs3k_sam9k_div2k_novg": {
+    "root": "data/images/general/",
+    "annotation": "data/general_ann/sharegpt4v_mix665k_cap23k_coco-ap9k_lcs3k_sam9k_div2k_novg.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 578326
+  },
+  "dvqa_train_200k": {
+    "root": "data/images/general/",
+    "annotation": "data/general_ann/dvqa_train_200k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 200000
+  },
+  "chartqa_train_18k": {
+    "root": "data/images/general/",
+    "annotation": "data/general_ann/chartqa_train_18k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 18317
+  },
+  "ai2d_train_12k": {
+    "root": "data/images/general/",
+    "annotation": "data/general_ann/ai2d_train_12k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 12413
+  },
+  "docvqa_train_10k": {
+    "root": "data/images/general/",
+    "annotation": "data/general_ann/docvqa_train_10k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 10211
+  },
+  "geoqa+": {
+    "root": "data/images/general/",
+    "annotation": "data/general_ann/geoqa+.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 72318
+  },
+  "synthdog_en": {
+    "root": "data/images/general/",
+    "annotation": "data/general_ann/synthdog_en.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 29765 
+  }
+}

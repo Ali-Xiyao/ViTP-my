@@ -1,0 +1,1 @@
+sh ./tools/dist_train.sh ./ViTP_configs/vitp_s2looking_upernet_test.py 8

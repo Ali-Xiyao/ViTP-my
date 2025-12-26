@@ -1,0 +1,28 @@
+accelerate<1
+# Windows 上 bitsandbytes/deepspeed 往往无法直接安装（需要 Linux/WSL2 或额外编译环境）
+bitsandbytes==0.42.0; platform_system != "Windows"
+decord
+deepspeed>=0.13.5; platform_system != "Windows"
+einops==0.6.1
+einops-exts==0.0.4
+huggingface_hub
+imageio
+numpy==1.26.4
+opencv-python
+orjson
+peft==0.10.0
+pycocoevalcap
+pyyaml
+scikit-learn>=1.2.2
+scipy
+sentencepiece==0.1.99
+shortuuid
+tensorboardX
+termcolor
+timm==0.9.12
+tokenizers==0.15.1
+torch>=2
+torchvision>=0.15
+tqdm
+transformers==4.37.2
+yacs

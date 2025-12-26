@@ -1,0 +1,1 @@
+./tools/dist_train.sh ViTP_configs/ViTP_isaid_upernet.py 8 
